@@ -1,0 +1,6 @@
+{
+  "name": "BONGO LABS",
+  "description": "A secure local cryptocurrency token mining simulator with referral system and daily login rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
